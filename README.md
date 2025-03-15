@@ -50,4 +50,4 @@ Microcontrolador encargado de procesar la información y controlar los dispositi
 2. **Conectar Arduino a Processing** si se desea visualizar los datos en tiempo real.
 3. **Interactuar con el circuito** usando el sensor, el servo y el potenciómetro.
 
-📌 Código disponible en [GitHub](https://github.com/usuario/repo)
+📌 Código disponible en [GitHub](https://github.com/Mauri-py/Radar-Arduino/)
