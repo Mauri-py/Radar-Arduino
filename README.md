@@ -43,7 +43,7 @@ Microcontrolador encargado de procesar la información y controlar los dispositi
 ✅ Dispositivos de medición de distancia.
 
 ## Imagen del Circuito
-![Esquema del Proyecto](Radar-Connections.jpg)
+![Esquema del Proyecto](Radar-Connection.jpg)
 
 ## Instalación y Uso
 1. **Cargar el código en Arduino** desde el IDE de Arduino.
